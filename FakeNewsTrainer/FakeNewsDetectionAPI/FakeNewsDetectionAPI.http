@@ -1,0 +1,6 @@
+@FakeNewsDetectionAPI_HostAddress = http://localhost:5034
+
+GET {{FakeNewsDetectionAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
